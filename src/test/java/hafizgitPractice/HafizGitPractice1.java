@@ -11,4 +11,8 @@ public class HafizGitPractice1 {
 	public void add2() {
 		System.out.println("This is add 2");
 	}
+	@Test
+	public void add3() {
+		System.out.println("This is add 3");
+	}
 }
