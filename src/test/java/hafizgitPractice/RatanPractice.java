@@ -11,4 +11,8 @@ public class RatanPractice {
 	public void add2() {
 		System.out.println("Add 2");
 	}
+	@Test
+	public void add3() {
+		System.out.println("Add 3");
+	}
 }
